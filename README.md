@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello! Welcome to my GitHub profile.
+## My name is Elaine and my nickname is efsoares!
 
 <!--
 **elainefabiola/elainefabiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
