@@ -2,7 +2,7 @@
 ## My name is Elaine and my nickname is efsoares!
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Full Stack Development.
+- 🔭 I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning Typescript
 
   <div>
