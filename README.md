@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Full Stack Developer.
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning JAVA e Python.
 
   <div>
   <a href="https://github.com/elainefabiola">
