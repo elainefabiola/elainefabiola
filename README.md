@@ -43,14 +43,6 @@
 
 ---
 
-### 📈 Contribuições do último ano
-
-<div align="center">
-  <img src="https://github-readme-contributions-graph.vercel.app/graph?username=elainefabiola&theme=github&hide_border=true&color=6366f1" />
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 <div align="center">
