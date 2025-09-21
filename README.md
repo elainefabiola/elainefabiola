@@ -43,10 +43,10 @@
 
 ---
 
-### 📈 Contribuições
+### 📈 Contribuições do último ano
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elainefabiola&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-contributions-graph.vercel.app/graph?username=elainefabiola&theme=github&hide_border=true&color=6366f1" />
 </div>
 
 ---
@@ -57,14 +57,6 @@
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elainefabiola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elainefabiola)
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/elainefabiola/elainefabiola/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
